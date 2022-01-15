@@ -1,2 +1,2 @@
-# Quality assurance
+# Quality-assurance
 my first lesson in Git
